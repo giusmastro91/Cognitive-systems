@@ -1,4 +1,4 @@
-Rendere più intuitivo la compilazione dei form del sign up, affinchè l'utente possa comprendere perchè alcuni dati non
+Rendere più intuitiva la compilazione dei form del sign up, affinchè l'utente possa comprendere perchè alcuni dati non
 sono stati accettati o perchè non è possibile completare la registrazione;
 Aggiungere delle indicazioni su come gestire e usare l'app al primo utilizzo (tour), in quanto l'utente potrebbe non aver
 ben chiare le funzionalità offerte;
