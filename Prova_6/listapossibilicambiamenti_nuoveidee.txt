@@ -1,9 +1,13 @@
-Rendere più intuitiva la compilazione dei form del sign up, affinchè l'utente possa comprendere perchè alcuni dati non
+- Rendere più intuitiva la compilazione dei form del sign up, affinchè l'utente possa comprendere perchè alcuni dati non
 sono stati accettati o perchè non è possibile completare la registrazione;
-Aggiungere delle indicazioni su come gestire e usare l'app al primo utilizzo (tour), in quanto l'utente potrebbe non aver
+- Aggiungere delle indicazioni su come gestire e usare l'app al primo utilizzo (tour), in quanto l'utente potrebbe non aver
 ben chiare le funzionalità offerte;
-Quando viene aggiunta una sigaretta rendere più evidente il risultato dell'azione (aggiungere un eventuale messaggio di 
+- Quando viene aggiunta una sigaretta rendere più evidente il risultato dell'azione (aggiungere un eventuale messaggio di 
 conferma), in quanto l'utente nel caso in cui avesse cliccato inavvertitamente sul pulsante "Add a cigarette" non può più
 tornare indietro;
-Modificare il link relativo al tasto "Ok" nelle schermate dei premi vinto, affinchè l'utente possa visualizzare sin da 
+- Modificare il link relativo al tasto "Ok" nelle schermate dei premi vinto, affinchè l'utente possa visualizzare sin da 
 subito l'elenco dei premi disponibili;
+- Disabilitare il pulsante "Add a cigarette" dopo averlo cliccato per un lasso di tempo proporzionale al numero medio 
+di sigarette fumate al giorno;
+- Suggerire periodicamente all'utente di cambiare il tipo di sigarette utilizzate in modo da portarlo
+gradualmente a marche sempre più leggere.
