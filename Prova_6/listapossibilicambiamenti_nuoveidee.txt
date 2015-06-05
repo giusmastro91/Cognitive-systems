@@ -5,8 +5,7 @@ ben chiare le funzionalità offerte;
 - Quando viene aggiunta una sigaretta rendere più evidente il risultato dell'azione (aggiungere un eventuale messaggio di 
 conferma), in quanto l'utente nel caso in cui avesse cliccato inavvertitamente sul pulsante "Add a cigarette" non può più
 tornare indietro;
-- Modificare il link relativo al tasto "Ok" nelle schermate dei premi vinto, affinchè l'utente possa visualizzare sin da 
-subito l'elenco dei premi disponibili;
+- Possibilità di accedere con Guest all'app in modo che l'utente possa farsi un'idea su come funzioni;
 - Disabilitare il pulsante "Add a cigarette" dopo averlo cliccato per un lasso di tempo proporzionale al numero medio 
 di sigarette fumate al giorno;
 - Suggerire periodicamente all'utente di cambiare il tipo di sigarette utilizzate in modo da portarlo
